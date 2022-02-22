@@ -26,3 +26,9 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/abu-samuel/">LinkedIn</a>
 </p>
 
+
+- 🌱 I'm looking forward to learn more on mobile app development
+- 💬 Ask me about `Web Development, JavaScript, Express, Node.js, React, MongoDB` etc
+- 👯 I’m looking to collaborate so I can learn and grow
+- 🔭 I’m currently working on a blog
+- :zap: Fun fact: I am learning French 
