@@ -17,5 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">Hi there! 👋 I am Samuel Abu</h3>
+<h3 align="center">Hi there! 👋</h3>
+<p align="center">✨ I'm a Full Stack Developer currently open to new opportunities and new horizons ✨</p>
+
+---
+<p align="center">
+    <a href="http://samcv.herokuapp.com/">Portfolio Website</a> •
+    <a href="https://www.linkedin.com/in/abu-samuel/">LinkedIn</a>
+</p>
 
