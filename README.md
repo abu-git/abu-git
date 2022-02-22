@@ -1,6 +1,6 @@
 ![profile header image](https://github.com/abu-git/abu-git/blob/main/readme_image.jpg)
 
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **abu-git/abu-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3 align="center">Hi there! 👋 I am Samuel Abu</h3>
+
