@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </p>
 
 
-- 💬 Ask me about `Web Development, JavaScript, Express, Node.js, React, MongoDB` etc
+- 💬 Ask me about `Web Development, JavaScript, Express, Node.js, React, MongoDB, PostgreSQL` etc
 - 👯 I’m looking to collaborate so I can learn and grow
 - 🔭 I’m currently working on a blog
 - 🌱 I'm looking forward to learn more about mobile app development
