@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 
 ---
 <p align="center">
-    <a href="https://sam-portfolio-alpha.vercel.app/">Portfolio Website</a> •
+    <a href="https://sam-cv.vercel.app/">Portfolio Website</a> •
     <a href="https://www.linkedin.com/in/abu-samuel/">LinkedIn</a>
 </p>
 
 
-- 💬 Ask me about `Web Development, Next.js, JavaScript, Express, Node.js, React, MongoDB, PostgreSQL, TailwindCSS` etc
+- 💬 Ask me about `Web Development, Next.js, JavaScript, Express, Node.js, React, MongoDB, TailwindCSS` etc
 - 👯 I’m looking to collaborate so I can learn and grow
 - 🔭 I’m currently working on a blog
 - 🌱 I'm looking forward to learn more about mobile app development
