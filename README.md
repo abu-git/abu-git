@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </p>
 
 
-- 💬 Ask me about `Web Development, Next.js, JavaScript, Express, Node.js, React, MongoDB, TailwindCSS, React Native` etc
+- 💬 Ask me about `Web Development, Mobile App Development, JavaScript, React, MongoDB, TailwindCSS, React Native` etc
 - 👯 I’m looking to collaborate so I can learn and grow
 - 🔭 I’m currently practicing more React Native and building phone apps
 - 🌱 I'm looking forward to learn more about Framer and Figma
