@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate so I can learn and grow
 - 🔭 I’m currently practicing more React Native and building phone apps
 - 🌱 I'm looking forward to learn more about Framer and Figma
-- :zap: Fun fact: I learn French in my spare time (*Je lis et ecrit francais un petit*)
+- :zap: Fun fact: I learn French in my spare time (*Je lis et ecrit un peu de francais*)
