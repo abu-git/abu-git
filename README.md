@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ---
 <p align="center">
-    <a href="https://sam-cv.vercel.app/">Portfolio Website</a> •
+    <a href="https://sam-cv.vercel.app/">Portfolio</a> •
     <a href="https://www.linkedin.com/in/abu-samuel/">LinkedIn</a>
 </p>
 
